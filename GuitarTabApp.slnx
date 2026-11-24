@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/GuitarTabApp.Core/">
+    <Project Path="GuitarTabApp.Core/GuitarTabApp.core.csproj" />
+  </Folder>
+  <Project Path="GuitarTabApp.Mobile/GuitarTabApp.Mobile.csproj" />
+  <Project Path="GuitarTabApp.Tests/GuitarTabApp.Tests.csproj" />
+</Solution>
